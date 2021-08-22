@@ -1,2 +1,5 @@
-# java-premgen
-Java PermGen
+# Java PermGen
+
+
+## Ref
+* https://www.baeldung.com/java-permgen-metaspace
